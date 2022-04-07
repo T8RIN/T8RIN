@@ -2,7 +2,8 @@
 
 #### I'm a Kotlin mobile developer
 
-![image](https://user-images.githubusercontent.com/52178347/162035795-662e8435-8dba-49e2-8448-b156becfa6ed.png)
+![image](https://user-images.githubusercontent.com/52178347/162140396-dbdb6544-7499-48d4-9a76-5237805b7a3a.png)
+
 
 I love learning new things and looking for innovative solutions. My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone. 
 
