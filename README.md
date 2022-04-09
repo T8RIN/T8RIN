@@ -37,8 +37,8 @@ I love learning new things and looking for innovative solutions. My main goal is
 
 ### Contacts
 
-<a href="https://github.com/t8rin"><img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a> 
 <a href="https://t.me/t8rin"><img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label="/></a> 
+<a href="https://github.com/t8rin"><img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a> 
 
 
 
