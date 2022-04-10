@@ -24,11 +24,11 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
+
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20photoshop-282829?logo=adobe+photoshop&style=for-the-badge)
 ![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=222222&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
-
+![Figma](https://img.shields.io/badge/Figma-222222?logo=figma&logoColor=F24E1E&style=for-the-badge)
 
 ### Github Statistic
 
