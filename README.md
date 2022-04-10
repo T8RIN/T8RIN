@@ -2,11 +2,11 @@
 
 #### I'm a Kotlin mobile developer
 
+
 ![image](https://user-images.githubusercontent.com/52178347/162585135-48cf838f-f0bc-4645-831b-e6610bd6df4b.png)
 
 
 I love learning new things and looking for innovative solutions. My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone. 
-
 
 ### Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
@@ -43,16 +43,11 @@ I love learning new things and looking for innovative solutions. My main goal is
 
 ### Github Statistic
 
-<img src="https://github-readme-stats.vercel.app/api?username=T8RIN&count_private=true&show_icons=true&theme=merko" width="49%"/></a> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=T8RIN&theme=merko" width="49%"/></a> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=T8RIN&count_private=true&show_icons=true&theme=merko)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=T8RIN&theme=merko)
+
 
 ### Contacts
 
 <a href="https://t.me/t8rin"><img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label="/></a> 
 <a href="https://github.com/t8rin"><img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a> 
-
-
-
-
-
-
