@@ -43,8 +43,8 @@ I love learning new things and looking for innovative solutions. My main goal is
 
 ### Github Statistic
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=T8RIN&count_private=true&show_icons=true&theme=merko)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=T8RIN&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api?username=T8RIN&count_private=true&show_icons=true&theme=merko" width="49%"/></a> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=T8RIN&theme=merko" width="49%"/></a> 
 
 ### Contacts
 
