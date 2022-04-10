@@ -52,3 +52,4 @@ I love learning new things and looking for innovative solutions. My main goal is
 <a href="https://t.me/t8rin"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label="/></a> 
 <a href="https://wa.me/qr/4VVZ5CJXYT4UN1"><img src="https://img.shields.io/badge/Whatsapp-green?logo=whatsapp&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://www.reddit.com/u/T8RIN?utm_medium=android_app&utm_source=share"><img src="https://img.shields.io/badge/Reddit-red?logo=reddit&logoColor=white&style=for-the-badge"/></a> 
+<a href="https://t8rin.medium.com"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge"/></a> 
