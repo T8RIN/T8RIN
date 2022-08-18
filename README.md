@@ -13,7 +13,7 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=)
 ![ReactiveX](https://img.shields.io/static/v1?style=for-the-badge&message=RxJava&color=B7178C&logo=ReactiveX&logoColor=FFFFFF&label=)
 
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
