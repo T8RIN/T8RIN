@@ -30,7 +30,7 @@ I love learning new things and looking for innovative solutions. My main goal is
 
 ### Web Services
 ![Firebase](https://img.shields.io/badge/Firebase-e09200?logo=firebase&logoColor=white&style=for-the-badge)
-![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Platform&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
+![Google Cloud Platform](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Platform&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
 ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=414141&logo=Google+Play&logoColor=FFFFFF&label=)
 
 ### Working with
