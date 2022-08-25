@@ -29,9 +29,9 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![SVG](https://img.shields.io/badge/Svg-FFB13B?logo=svg&logoColor=black&style=for-the-badge)
 
 ### Web Services
-![Firebase](https://img.shields.io/badge/Firebase-e09200?logo=firebase&logoColor=white&style=for-the-badge)
-![Google Cloud Platform](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Platform&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
-![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=414141&logo=Google+Play&logoColor=FFFFFF&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=302000&logo=Firebase&logoColor=e09200&label=)
+![Google Cloud Platform](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Platform&color=0f1f38&logo=Google+Cloud&logoColor=4285F4&label=)
+![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=1c1c1c&logo=Google+Play&logoColor=808080&label=)
 
 ### Working with
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=15472C&logo=Android+Studio&logoColor=3DDC84&label=)
