@@ -34,11 +34,11 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=1c1c1c&logo=Google+Play&logoColor=808080&label=)
 
 ### Working with
-![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=15472C&logo=Android+Studio&logoColor=3DDC84&label=)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20photoshop-134264?logo=adobe+photoshop&style=for-the-badge)
-![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=583501&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
+![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20photoshop-0c273b?logo=adobe+photoshop&style=for-the-badge)
+![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=362001&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/Figma-5A1E0E?logo=figma&logoColor=F24E1E&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-4f190c?logo=figma&logoColor=F24E1E&style=for-the-badge)
 ![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
 
 ### Github Statistic
