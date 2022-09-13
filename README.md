@@ -42,9 +42,9 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Figma](https://img.shields.io/badge/Figma-4f190c?logo=figma&logoColor=F24E1E&style=for-the-badge)
 ![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
 
-### Currently working on
+ 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t8rin&repo=cookhelper&theme=codeSTACKr)
+
 
 ### Github Statistic
 
