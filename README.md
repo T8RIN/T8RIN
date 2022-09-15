@@ -3,7 +3,8 @@
 #### I'm a Kotlin mobile developer
 
 
-![image](https://user-images.githubusercontent.com/52178347/162585135-48cf838f-f0bc-4645-831b-e6610bd6df4b.png)
+
+![image](https://user-images.githubusercontent.com/52178347/190358349-facd6c2c-6568-4031-ac7d-e9d3d405aa1c.png)
 
 
 I love learning new things and looking for innovative solutions. My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone. 
