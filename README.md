@@ -60,4 +60,4 @@ I love learning new things and looking for innovative solutions. My main goal is
 <a href="https://t8rin.medium.com"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge"/></a> 
 
 #### Profile Views
-![](https://komarev.com/ghpvc/?username=t8rin&label=Views&style=for-the-badge)
+[![Hits](https://hits.sh/github.com/t8rin/t8rin.svg?style=for-the-badge&label=Views&extraCount=9867&color=54856b)](https://hits.sh/github.com/t8rin/t8rin/)
