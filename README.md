@@ -43,14 +43,11 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Figma](https://img.shields.io/badge/Figma-4f190c?logo=figma&logoColor=F24E1E&style=for-the-badge)
 ![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
 
- 
-
-
 
 ### Github Statistic
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=t8rin&show_icons=true&theme=codeSTACKr&rank_icon=percentile)](https://github.com/t8rin)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=T8RIN&theme=tokyonight&background=09131C&border=0C1A25&stroke=D9582B&fire=D9582B&ring=D9582B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=D9582B&dates=F2DF2E&currStreakLabel=D9582B)](https://github.com/t8rin)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=t8rin&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f5)](https://github.com/t8rin)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=T8RIN&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5)](https://github.com/t8rin)
 
 ### Contacts
 
