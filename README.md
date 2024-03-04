@@ -3,7 +3,7 @@
 #### I'm a Kotlin mobile developer
 
 
-![image](https://user-images.githubusercontent.com/52178347/222531335-d36e768c-5499-46c0-8020-b79e9416b0f0.png)
+![Frame 32 (1)](https://github.com/T8RIN/T8RIN/assets/52178347/a8299f6b-f9dc-4ffa-83c2-81090a19ba2c)
 
 
 
