@@ -36,11 +36,15 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![QT](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logoColor=ffffff&logo=Qt)
 
 ### Web Services
-![GitLab](https://img.shields.io/badge/GitLab-4f230d?style=for-the-badge&logoColor=FC6D26&logo=GitLab)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=302000&logo=Firebase&logoColor=e09200&label=)
-![Google Cloud Platform](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Platform&color=0f1f38&logo=Google+Cloud&logoColor=4285F4&label=)
-![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=1c1c1c&logo=Google+Play&logoColor=808080&label=)
+![Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=googleanalytics&logoColor=white&label=)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logoColor=ffffff&logo=GitLab)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=DD2C00&logo=Firebase&logoColor=ffffff&label=)
+![Google Cloud Platform](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Platform&color=4285F4&logo=Google+Cloud&logoColor=ffffff&label=)
+![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=4a4a4a&logo=Google+Play&logoColor=ffffff&label=)
+![Notion](https://img.shields.io/badge/Notion-2b2b2b?style=for-the-badge&logoColor=ffffff&logo=Notion)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=ffffff&logo=GitHub)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logoColor=ffffff&logo=Miro)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=ffffff&logo=Slack)
 
 
 ### Working with
