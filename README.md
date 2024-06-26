@@ -38,8 +38,10 @@ I love learning new things and looking for innovative solutions. My main goal is
 ### Web Services
 ![Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=googleanalytics&logoColor=white&label=)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logoColor=ffffff&logo=GitLab)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff&style=for-the-badge)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=DD2C00&logo=Firebase&logoColor=ffffff&label=)
 ![Google Cloud Platform](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Platform&color=4285F4&logo=Google+Cloud&logoColor=ffffff&label=)
+![Jitpack](https://img.shields.io/badge/Jitpack-354a5f?style=for-the-badge&logoColor=ffffff&logo=Jitpack)
 ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=4a4a4a&logo=Google+Play&logoColor=ffffff&label=)
 ![Notion](https://img.shields.io/badge/Notion-2b2b2b?style=for-the-badge&logoColor=ffffff&logo=Notion)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=ffffff&logo=GitHub)
@@ -52,7 +54,6 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20photoshop-0c273b?logo=adobe+photoshop&style=for-the-badge)
 ![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=362001&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/Figma-4f190c?logo=figma&logoColor=F24E1E&style=for-the-badge)
 ![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
 
 
