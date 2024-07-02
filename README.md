@@ -59,8 +59,8 @@ I love learning new things and looking for innovative solutions. My main goal is
 
 ### Github Statistic
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=t8rin&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f5)](https://github.com/t8rin)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=T8RIN&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5)](https://github.com/t8rin)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=T8RIN&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f5)](https://github.com/t8rin)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=t8rin&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5)](https://github.com/t8rin)
 
 ### Contacts
 
