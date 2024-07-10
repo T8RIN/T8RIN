@@ -36,6 +36,7 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![QT](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logoColor=ffffff&logo=Qt)
 
 ### Web Services
+![Miro](https://img.shields.io/badge/Miro-ffdd33?style=for-the-badge&logoColor=000000&logo=Miro)
 ![Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=googleanalytics&logoColor=white&label=)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logoColor=ffffff&logo=GitLab)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff&style=for-the-badge)
@@ -45,7 +46,6 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=4a4a4a&logo=Google+Play&logoColor=ffffff&label=)
 ![Notion](https://img.shields.io/badge/Notion-2b2b2b?style=for-the-badge&logoColor=ffffff&logo=Notion)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=ffffff&logo=GitHub)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logoColor=ffffff&logo=Miro)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=ffffff&logo=Slack)
 
 
