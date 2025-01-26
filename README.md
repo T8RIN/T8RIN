@@ -23,6 +23,7 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
+![Cmake](https://img.shields.io/badge/Cmake-064F8C?logo=cmake&logoColor=white&style=for-the-badge)
 
 ### Secondary skills
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=bootstrap&color=563d7c&logo=bootstrap&logoColor=FFFFFF&label=)
