@@ -66,7 +66,7 @@ I love learning new things and looking for innovative solutions. My main goal is
 ### Github Statistic
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=T8RIN&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5" width="50%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=t8rin&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5" width="50%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=T8RIN&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f5" width="47%" />
 </div>
 <br />
