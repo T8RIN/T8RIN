@@ -56,6 +56,7 @@ I build fast, modern, and user-friendly mobile apps. Always exploring new tech, 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff&style=for-the-badge)
 ![Todoist](https://img.shields.io/badge/Todoist-E44332?logo=todoist&logoColor=ffffff&style=for-the-badge)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=DD2C00&logo=Firebase&logoColor=ffffff&label=)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=ffffff&logo=Slack)
 ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=ffffff&label=)
 ![Material Icons](https://img.shields.io/badge/Material%20Icons-2196F3?style=for-the-badge&logoColor=ffffff&logo=materialdesignicons)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logoColor=ffffff&logo=githubactions)
@@ -64,7 +65,6 @@ I build fast, modern, and user-friendly mobile apps. Always exploring new tech, 
 ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=4a4a4a&logo=Google+Play&logoColor=ffffff&label=)
 ![Notion](https://img.shields.io/badge/Notion-2b2b2b?style=for-the-badge&logoColor=ffffff&logo=Notion)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=ffffff&logo=GitHub)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=ffffff&logo=Slack)
 
 
 ## Working with
