@@ -43,6 +43,7 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Ruby Gems](https://img.shields.io/badge/Ruby%20Gems-E9573F?style=for-the-badge&logoColor=ffffff&logo=rubygems)
 ![TOML](https://img.shields.io/badge/TOML-9C4121?style=for-the-badge&logoColor=ffffff&logo=TOML)
 ![SVG](https://img.shields.io/badge/Svg-FFB13B?logo=svg&logoColor=black&style=for-the-badge)
+![MongoDb](https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logoColor=ffffff&logo=MongoDb)
 ![QT](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logoColor=ffffff&logo=Qt)
 
 ### Web Services
