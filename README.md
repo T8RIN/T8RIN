@@ -1,13 +1,13 @@
-### Hi there 👋, my name is Malik
+### Hi there 👋, I'm Malik!
 
-#### I'm a Kotlin mobile developer
+#### Kotlin Mobile Developer | Crafting Intuitive & Powerful Apps
 
 
 ![Frame 2087327105](https://github.com/user-attachments/assets/90803087-ea70-4556-816c-bf3520b43f68)
 
 
 
-I love learning new things and looking for innovative solutions. My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone. 
+I build fast, modern, and user-friendly mobile apps. Always exploring new tech, optimizing workflows, and turning ideas into smooth, polished experiences. Let’s innovate together! 🚀
 
 
 ### Tech Stack
