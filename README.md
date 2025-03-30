@@ -49,6 +49,7 @@ I build fast, modern, and user-friendly mobile apps. Always exploring new tech, 
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CocoaPods](https://img.shields.io/static/v1?style=for-the-badge&message=CocoaPods&color=EE3322&logo=CocoaPods&logoColor=FFFFFF&label=)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logoColor=ffffff&logo=YAML)
 ![TOML](https://img.shields.io/badge/TOML-9C4121?style=for-the-badge&logoColor=ffffff&logo=TOML)
 
 ## Web Services
