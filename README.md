@@ -26,6 +26,7 @@ I build fast, modern, and user-friendly mobile apps. Always exploring new tech, 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Cmake](https://img.shields.io/badge/Cmake-064F8C?logo=cmake&logoColor=white&style=for-the-badge)
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
+![IOS](https://img.shields.io/badge/IOS-000000?logo=apple&logoColor=white&style=for-the-badge)
 
 ## Secondary skills
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=bootstrap&color=563d7c&logo=bootstrap&logoColor=FFFFFF&label=)
