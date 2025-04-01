@@ -65,6 +65,7 @@ I build fast, modern, and user-friendly mobile apps. Always exploring new tech, 
 ![Material Icons](https://img.shields.io/badge/Material%20Icons-2196F3?style=for-the-badge&logoColor=ffffff&logo=materialdesignicons)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logoColor=ffffff&logo=githubactions)
 ![F-Droid](https://img.shields.io/badge/FDroid-1976D2?style=for-the-badge&logoColor=ffffff&logo=fdroid)
+![Kibana](https://img.shields.io/static/v1?style=for-the-badge&message=kibana&color=005571&logo=kibana&logoColor=FFFFFF&label=)
 ![Jitpack](https://img.shields.io/badge/Jitpack-354a5f?style=for-the-badge&logoColor=ffffff&logo=Jitpack)
 ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=4a4a4a&logo=Google+Play&logoColor=ffffff&label=)
 ![Notion](https://img.shields.io/badge/Notion-2b2b2b?style=for-the-badge&logoColor=ffffff&logo=Notion)
