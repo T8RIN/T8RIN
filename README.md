@@ -38,6 +38,7 @@ I build fast, modern, and user-friendly mobile apps. Always exploring new tech, 
 ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
 ![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=CSS&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Php](https://img.shields.io/static/v1?style=for-the-badge&message=php&color=777BB4&logo=php&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logoColor=ffffff&logo=OpenGL)
 ![MongoDb](https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logoColor=ffffff&logo=MongoDb)
