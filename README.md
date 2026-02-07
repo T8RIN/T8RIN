@@ -104,7 +104,6 @@ I build fast, modern, and user-friendly mobile apps. Always exploring new tech, 
 ## 📬 **Let's Connect!**  
 
 <a href="https://t.me/t8rin"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://wa.me/qr/4VVZ5CJXYT4UN1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://www.reddit.com/u/T8RIN"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://t8rin.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
