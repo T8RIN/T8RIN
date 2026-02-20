@@ -98,6 +98,8 @@ I build fast, modern, and user-friendly mobile apps. Always exploring new tech, 
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=t8rin&layout=compact&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f5" width="38%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=T8RIN&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f5&hide_border=true&radius=16&line=42a4f5&point=40edab&area_color=40edab&color=40edab" width="59%" />
 </div>
+<br />
+<img align="center" src="https://github-profile-trophy-fork-two.vercel.app/?username=t8rin&no-frame=true&column=9&theme=algolia" width="97.5%" />
 
 
 
