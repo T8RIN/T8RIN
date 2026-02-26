@@ -90,16 +90,16 @@ I build fast, modern, and user-friendly mobile apps. Always exploring new tech, 
 ## Github Statistic
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=t8rin&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5" width="50%" />
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=t8rin&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f5" width="47%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=t8rin&theme=toonight&background=061821&border=0C1A25&stroke=42a4f4&fire=42a4f4&ring=42a4f4&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f4&dates=40edab&currStreakLabel=42a4f4" width="50%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=t8rin&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f4" width="47%" />
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=t8rin&layout=compact&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f5" width="38%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=T8RIN&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f5&hide_border=true&radius=16&line=42a4f5&point=40edab&area_color=40edab&color=40edab" width="59%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=t8rin&layout=compact&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f4" width="38%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=T8RIN&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f4&hide_border=true&radius=16&line=42a4f4&point=40edab&area_color=40edab&color=40edab" width="59%" />
 </div>
 <br />
-<img align="center" src="https://github-profile-trophy-tawny.vercel.app/?username=T8RIN&no-frame=true&column=5&theme=algolia" width="97.5%" />
+<img align="center" src="https://github-profile-trophy-tawny.vercel.app/?username=T8RIN&no-frame=true&column=6&theme=algolia" width="97.5%" />
 
 
 
